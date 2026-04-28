@@ -20,20 +20,21 @@ Have something to add or change? Open a pull request or issue.
 
 ## Election Basics
 
-Primary official entry points for the Berlin elections on 20 September 2026.
+Primary official entry points for the Berlin elections on 20 September 2026, plus one secondary background reference.
 
 - 🗳️ [Berliner Wahlen 2026](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/) - Central overview from the Landeswahlleiter covering election information, candidate submissions, FAQs, boundary information, and voting rights for EU citizens.
 - 📊 [Abgeordnetenhaus und Bezirksverordnetenversammlungen](https://www.statistik-berlin-brandenburg.de/abgeordnetenhauswahlen-bvv-berlin/) - Official statistics portal from Amt fur Statistik Berlin-Brandenburg with the 2026 election section, historical results, precinct-level result references, structural data, and links to maps and the Berlin Open Data portal.
 - 📅 [Allgemeine Informationen](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/allgemeine-informationen/artikel.1578239.php) - Confirms the election date of 20 September 2026, links the official timeline PDF, and notes that around 2.4 million election notifications will be delivered between mid-August and 30 August 2026.
 - 🏛️ [Senat legt Anzahl der Wahlkreise in den Bezirken und den Wahltag fur die Wahl zum Abgeordnetenhaus 2026 fest](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2025/pressemitteilung.1566261.php) - Senate press release from 3 June 2025 fixing the election date and the distribution of Berlin's 78 constituencies across the 12 districts.
+- 📚 [Wahl zum Abgeordnetenhaus von Berlin 2026](https://de.wikipedia.org/wiki/Wahl_zum_Abgeordnetenhaus_von_Berlin_2026) - Wikipedia overview page with background context, timeline notes, and linked references; useful as a secondary summary, but not an official source.
 
 ------------------------------
 
 ## Geometries & Boundaries
 
-Official spatial datasets and boundary references for constituencies and polling districts.
+Official spatial datasets from Berlin Open Data, plus one official boundary reference page.
 
-- 🗺️ [Geometrien der Wahlbezirke fur die Wahl zum 20. Abgeordnetenhaus von Berlin und BVV 2026](https://daten.berlin.de/datensaetze/geometrien-der-wahlbezirke-fur-die-wahl-zum-20-abgeordnetenhaus-von-berlin-und-bvv-2026) - New Berlin Open Data dataset published on 22 April 2026 with polygon geometries for the 2026 polling districts used for the Abgeordnetenhaus and BVV elections.
+- 🗺️ [Geometrien der Wahlbezirke fur die Wahl zum 20. Abgeordnetenhaus von Berlin und BVV 2026](https://daten.berlin.de/datensaetze/geometrien-der-wahlbezirke-fur-die-wahl-zum-20-abgeordnetenhaus-von-berlin-und-bvv-2026) - Berlin Open Data dataset, published on 22 April 2026, with polygon geometries for the 2026 polling districts used for the Abgeordnetenhaus and BVV elections.
 - 📐 [Geometrien der Wahlkreise fur die Wahl zum 20. Abgeordnetenhaus von Berlin 2026](https://daten.berlin.de/datensaetze/geometrien-der-wahlkreise-fur-die-wahl-zum-20-abgeordnetenhaus-von-berlin-2026) - Berlin Open Data dataset for the 78 Abgeordnetenhaus constituencies, first published on 22 October 2025 and updated on 16 April 2026 with minor topological adjustments.
 - 🧭 [Wahlgebietseinteilung](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/wahlgebietseinteilung/artikel.1600253.php) - Official page explaining the 78 constituencies, their distribution by district, links to district-level constituency maps, and the Open Data geometry download.
 
@@ -55,7 +56,9 @@ Resources for eligibility, moving, brief voting, and BVV voting rights for EU ci
 
 - ❓ [Frage- und Antwortkatalog](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/fragen-und-antwortkatalog/artikel.1646712.php) - Official FAQ explaining major 2026 changes, including voting eligibility from age 16 for the Abgeordnetenhaus election and the new single ballot combining first and second vote.
 - ✉️ [Allgemeine Informationen](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/allgemeine-informationen/artikel.1578239.php) - Reference page for election notifications, timeline downloads, and general administrative information for voters.
-- 🇪🇺 [Unionsburgerinnen und Unionsburger](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/unionsbuerger/artikel.1600483.php) - Explains BVV voting rights for EU citizens aged 16+ with a main residence in Berlin since 20 June 2026.
+- 📍 [Wahllokalsuche](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/fragen-und-antwortkatalog/artikel.1646712.php) - Announced by the Landeswahlleiter as available from 10 August 2026 after election notifications are issued; not active yet, so this link currently points to the official FAQ source that describes the service.
+- ✉️ [Wahlbrief](https://wahlbrief.de/) - Unofficial open-source service by FragDenStaat that helps users generate and send a brief voting request by email; useful as a convenience tool, but not an official Berlin election site.
+- 🤖 [wahl.chat](https://wahl.chat/landtagswahl-rheinland-pfalz-2026) - AI-based election information tool currently published for other 2026 state elections; Berlin is not included yet, so this link is only a reference to the existing product, not an active Berlin resource.
 - 🧭 Wahl-O-Mat fur Berlin 2026 (coming soon) - Placeholder for the expected pre-election comparison tool; intentionally left without a link until the official 2026 version is published.
 
 ------------------------------
