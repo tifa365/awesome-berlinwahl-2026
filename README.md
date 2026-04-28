@@ -1,4 +1,4 @@
-# berlinwahl-abgeordnetenhaus [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-berlinwahl-2026 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ##### Curated list of official datasets, maps, timelines, and reference material for the Berlin 2026 Abgeordnetenhaus and BVV elections.
 
