@@ -13,6 +13,7 @@ Have something to add or change? Open a pull request or issue.
 - [Election Basics](#election-basics)
 - [Geometries & Boundaries](#geometries--boundaries)
 - [Rules, Deadlines & Candidacies](#rules-deadlines--candidacies)
+- [Party Programs & Positions](#party-programs--positions)
 - [Voter Information](#voter-information)
 - [Election Operations & Context](#election-operations--context)
 
@@ -50,9 +51,22 @@ Official sources for candidate submissions, formal requirements, and key legal d
 
 ------------------------------
 
+## Party Programs & Positions
+
+Current overview of party program pages and publication status for the 2026 Berlin election.
+
+- 🟢 [Grune Berlin: Unser Wahlprogramm fur 2026](https://gruene.berlin/wahlprogramm) - Final program page with the slogan `Politik andern, Berlin bleiben`; the site states the Landesdelegiertenkonferenz adopted the program on 14 and 15 February 2026.
+- 🔴 [Die Linke Berlin: Wahlprogramm-Entwurf](https://dielinke.berlin/partei/wahlen/abgeordnetenhauswahlen-2026/wahlprogramm-entwurf/) - Official draft page titled `Berlin bezahlbar machen`; as of 28 April 2026 the published party page still labels it as an `Entwurf` for the Landesparteitag on 25 April 2026.
+- 🟣 [BSW Berlin program status](https://www.welt.de/regionales/berlin/article69eccf9ae5056f185e234f14/bsw-will-ins-berliner-abgeordnetenhaus.html) - According to a WELT report from 25 April 2026, the party approved its Berlin election program, with themes including rents, education, a 15 euro minimum wage, and anti-rearmament positions; this is a media source, not an official party document.
+- 🟡 [FDP Berlin: Programmprozess 2026](https://www.fdp-berlin.de/wahlprogramm) - Official process page, not a final program; it describes a multi-phase drafting process, with Landesvorstand work in March to May 2026 and final adoption planned at the 2026 Landesparteitag.
+- ⚫ [CDU Berlin: Berlin-Plan 2021-2026](https://cdu.berlin/image/uploads/data/Berlin-Plan_CDU-Berlin_2021-2026.pdf) - Older CDU program document for the 2021-2026 cycle; useful as background, but not a clearly published new 2026 election program.
+- 🔴 [SPD Berlin: Unser Wahlprogramm-Entwurf](https://spd.berlin/wahlprogramm/) - Official draft page; the SPD says the Landesvorstand adopted the draft on 16 February 2026 and that the final program is to be decided by the Landesparteitag on 8 and 9 May 2026.
+
+------------------------------
+
 ## Voter Information
 
-Resources for eligibility, moving, brief voting, and BVV voting rights for EU citizens.
+Resources for eligibility, polling-place lookup, brief voting, and voter-facing convenience tools.
 
 - ❓ [Frage- und Antwortkatalog](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/fragen-und-antwortkatalog/artikel.1646712.php) - Official FAQ explaining major 2026 changes, including voting eligibility from age 16 for the Abgeordnetenhaus election and the new single ballot combining first and second vote.
 - ✉️ [Allgemeine Informationen](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/allgemeine-informationen/artikel.1578239.php) - Reference page for election notifications, timeline downloads, and general administrative information for voters.
