@@ -69,14 +69,14 @@ Official sources for candidate submissions, formal requirements, and key legal d
 
 ## Party Programs & Positions
 
-Current overview of party program pages and publication status for the 2026 Berlin election.
+Final adopted programs of the major parties for the 2026 Berlin election; as of July 2026 all six parties listed here have published their final program.
 
 - 🟢 [Grune Berlin: Unser Wahlprogramm fur 2026](https://gruene.berlin/wahlprogramm) - Final program page with the slogan `Politik andern, Berlin bleiben`; the site states the Landesdelegiertenkonferenz adopted the program on 14 and 15 February 2026.
-- 🔴 [Die Linke Berlin: Wahlprogramm-Entwurf](https://dielinke.berlin/partei/wahlen/abgeordnetenhauswahlen-2026/wahlprogramm-entwurf/) - Official draft page titled `Berlin bezahlbar machen`; as of 28 April 2026 the published party page still labels it as an `Entwurf` for the Landesparteitag on 25 April 2026.
-- 🟣 [BSW Berlin program status](https://www.welt.de/regionales/berlin/article69eccf9ae5056f185e234f14/bsw-will-ins-berliner-abgeordnetenhaus.html) - According to a WELT report from 25 April 2026, the party approved its Berlin election program, with themes including rents, education, a 15 euro minimum wage, and anti-rearmament positions; this is a media source, not an official party document.
-- 🟡 [FDP Berlin: Programmprozess 2026](https://www.fdp-berlin.de/wahlprogramm) - Official process page, not a final program; it describes a multi-phase drafting process, with Landesvorstand work in March to May 2026 and final adoption planned at the 2026 Landesparteitag.
-- ⚫ [CDU Berlin: Berlin-Plan 2021-2026](https://cdu.berlin/image/uploads/data/Berlin-Plan_CDU-Berlin_2021-2026.pdf) - Older CDU program document for the 2021-2026 cycle; useful as background, but not a clearly published new 2026 election program.
-- 🔴 [SPD Berlin: Unser Wahlprogramm-Entwurf](https://spd.berlin/wahlprogramm/) - Official draft page; the SPD says the Landesvorstand adopted the draft on 16 February 2026 and that the final program is to be decided by the Landesparteitag on 8 and 9 May 2026.
+- 🔴 [Die Linke Berlin: Wahlprogramm](https://dielinke.berlin/partei/wahlen/abgeordnetenhauswahlen-2026/wahlprogramm/) - Final program `Berlin bezahlbar machen`, adopted by the Landesparteitag on 25 April 2026 and published chapter by chapter on the official program page.
+- 🟣 [BSW Berlin: Wahlprogramm AGH-Wahl 2026](https://bsw.berlin/allgemein/entwurf-des-landeswahlprogramms-des-berliner-bsw/) - Official program page with the full PDF `Mit uns endlich vernunftig und gerecht`, adopted by the Landesparteitag on 25 April 2026; note the URL still carries the old `entwurf` slug even though the page presents the adopted program.
+- 🟡 [FDP Berlin: Wahlprogramm zur Abgeordnetenhauswahl 2026](https://www.fdp-berlin.de/wahlprogramm) - Final program page with the full PDF under the slogan `Fur die Freiheit`, adopted as a Landesparteitag resolution and also listed in the party's official Beschlussdatenbank.
+- ⚫ [CDU Berlin: Wofur wir stehen - Regierungsprogramm 2026-2031](https://cdu.berlin/wofuer-wir-stehen) - Official program page with the downloadable `Regierungsprogramm 2026-2031`, adopted by the 50. Landesparteitag on 9 June 2026.
+- 🔴 [SPD Berlin: Wieder Berlin - unser Wahlprogramm](https://spd.berlin/wahlprogramm/) - Final program `Wieder Berlin`, adopted unanimously by the Landesparteitag on 9 May 2026; the page offers a PDF download, an e-book version, and per-topic subpages.
 
 ------------------------------
 
