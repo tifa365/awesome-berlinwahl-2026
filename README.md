@@ -12,6 +12,7 @@ Have something to add or change? Open a pull request or issue.
 
 - [Election Basics](#election-basics)
 - [Geometries & Boundaries](#geometries--boundaries)
+- [Pre-Election & Structural Data](#pre-election--structural-data)
 - [Rules, Deadlines & Candidacies](#rules-deadlines--candidacies)
 - [Party Programs & Positions](#party-programs--positions)
 - [Voter Information](#voter-information)
@@ -39,7 +40,21 @@ Official spatial datasets from Berlin Open Data, plus one official boundary refe
 - 📐 [Geometrien der Wahlkreise fur die Wahl zum 20. Abgeordnetenhaus von Berlin 2026](https://daten.berlin.de/datensaetze/geometrien-der-wahlkreise-fur-die-wahl-zum-20-abgeordnetenhaus-von-berlin-2026) - Berlin Open Data dataset for the 78 Abgeordnetenhaus constituencies, first published on 22 October 2025 and updated on 16 April 2026 with minor topological adjustments.
 - 🌐 [Wahlgebiete fur die Wahl zum 20. Abgeordnetenhaus von Berlin 2026 - WMS](https://daten.berlin.de/datensaetze/wahlgebiete-fur-die-wahl-zum-20-abgeordnetenhaus-von-berlin-2026-wms-8e5cac56) - Berlin Open Data WMS map service from Amt fur Statistik Berlin-Brandenburg, published on 22 April 2026, covering the 2026 election areas (constituencies plus polling and postal-vote districts); service endpoint at `https://gdi.berlin.de/services/wms/wahlgebiete_agh2026`, licensed CC BY 3.0 DE.
 - 🔷 [Wahlgebiete fur die Wahl zum 20. Abgeordnetenhaus von Berlin 2026 - WFS](https://daten.berlin.de/datensaetze/wahlgebiete-fur-die-wahl-zum-20-abgeordnetenhaus-von-berlin-2026-wfs-bc61142d) - Companion WFS service for the same election areas, providing the vector features directly for GIS use and automated download.
+- 🗾 [Darstellung der Wahlgebiete im Geoportal Berlin](https://gdi.berlin.de/view/wahlgebiete_agh2026) - Interactive Geoportal map viewer for the 2026 election areas with three layers: `agh2026_awk` (constituencies), `agh2026_uwb` (polling districts), and `agh2026_bwb` (postal-vote districts); note the underlying data status is 22 April 2026, the Geoportal publication followed on 16 July 2026.
+- 🖼️ [Wahlkreiskarten 2026](https://www.statistik-berlin-brandenburg.de/wahlkreiskarten-2026) - Official map page with district overview maps, individual PDF maps for all 78 constituencies, and PDF address directories listing the addresses belonging to each polling district.
 - 🧭 [Wahlgebietseinteilung](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/wahlgebietseinteilung/artikel.1600253.php) - Official page explaining the 78 constituencies, their distribution by district, links to district-level constituency maps, and the Open Data geometry download.
+
+------------------------------
+
+## Pre-Election & Structural Data
+
+Official pre-election statistics from Amt fur Statistik Berlin-Brandenburg, published in June 2026, including earlier election results recalculated onto the 2026 boundaries.
+
+- 📕 [Vorwahldaten, Strukturdaten - Bericht (PDF)](https://download.statistik-berlin-brandenburg.de/4ab89f5e666a3418/0d89fa32f60b/SB_B07-02-01_2026j05_BE.pdf) - 32-page official statistical report for the 20 September 2026 elections with the 2023 Abgeordnetenhaus and 2025 Bundestag results recalculated onto the new 2026 constituencies, plus eligible voters by age and sex, citizenship, migration background, and social-structure data by district and constituency.
+- 📗 [Vorwahldaten, Strukturdaten - Tabellen (XLSX)](https://download.statistik-berlin-brandenburg.de/dce8788111faf339/5cad9dd74f0a/SB_B07-02-01_2026j05_BE.xlsx) - Machine-readable companion tables to the Vorwahldaten report.
+- 🔢 [Abgeordnetenhauswahl 2023, Zweitstimmen umgerechnet auf die Wahlgebiete 2026 (XLSX)](https://download.statistik-berlin-brandenburg.de/eddea71cdf4e6f2b/291e0923b0a7/DL_BE_AGH2026_AGH2023.xlsx) - 2023 second-vote results recalculated onto the 2026 election areas; removes the need to spatially reaggregate old results onto the new boundaries yourself.
+- 🔢 [Bundestagswahl 2025, Zweitstimmen umgerechnet auf die Wahlgebiete 2026 (XLSX)](https://download.statistik-berlin-brandenburg.de/1e70272a9cea4ac4/0cf516026bf3/DL_BE_AGH2026_BT2025.xlsx) - 2025 federal-election second-vote results recalculated onto the 2026 election areas.
+- 🧮 [Strukturdaten auf Wahlbezirksebene (XLSX)](https://download.statistik-berlin-brandenburg.de/aa56eddd2ea25921/1dd6f94397c4/DL_BE_AH2026_Strukturdaten.xlsx) - Demographic and social-structure data at polling-district level, the finest granularity available; well suited for small-area analysis and election models when joined with the polling-district geometries.
 
 ------------------------------
 
@@ -50,7 +65,6 @@ Official sources for candidate submissions, formal requirements, and key legal d
 - 📝 [Wahlvorschlage](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/wahlvorschlaege/artikel.1600254.php) - Main page for parties and candidates with deadlines for participation notices, candidate submissions, support signatures, downloadable forms, and procedural guidance.
 - ⏱️ [Terminplan fur die Berliner Wahlen 2026](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/allgemeine-informationen/terminplan.pdf) - Two-page official PDF with the binding timeline, including 20 May 2026 for participation notices and 14 July 2026 for submission of candidate documents.
 - 📘 [Aufruf zur Einreichung der Wahlbeteiligungsanzeige und Wahlvorschlage fur die Berliner Wahlen 2026](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/wahlvorschlaege/wahlaufruf-abgh_bvv-2026.pdf) - Detailed official call for submissions with legal references, procedural explanations, and candidacy requirements.
-
 ------------------------------
 
 ## Party Programs & Positions
