@@ -37,6 +37,8 @@ Official spatial datasets from Berlin Open Data, plus one official boundary refe
 
 - 🗺️ [Geometrien der Wahlbezirke fur die Wahl zum 20. Abgeordnetenhaus von Berlin und BVV 2026](https://daten.berlin.de/datensaetze/geometrien-der-wahlbezirke-fur-die-wahl-zum-20-abgeordnetenhaus-von-berlin-und-bvv-2026) - Berlin Open Data dataset, published on 22 April 2026, with polygon geometries for the 2026 polling districts used for the Abgeordnetenhaus and BVV elections.
 - 📐 [Geometrien der Wahlkreise fur die Wahl zum 20. Abgeordnetenhaus von Berlin 2026](https://daten.berlin.de/datensaetze/geometrien-der-wahlkreise-fur-die-wahl-zum-20-abgeordnetenhaus-von-berlin-2026) - Berlin Open Data dataset for the 78 Abgeordnetenhaus constituencies, first published on 22 October 2025 and updated on 16 April 2026 with minor topological adjustments.
+- 🌐 [Wahlgebiete fur die Wahl zum 20. Abgeordnetenhaus von Berlin 2026 - WMS](https://daten.berlin.de/datensaetze/wahlgebiete-fur-die-wahl-zum-20-abgeordnetenhaus-von-berlin-2026-wms-8e5cac56) - Berlin Open Data WMS map service from Amt fur Statistik Berlin-Brandenburg, published on 22 April 2026, covering the 2026 election areas (constituencies plus polling and postal-vote districts); service endpoint at `https://gdi.berlin.de/services/wms/wahlgebiete_agh2026`, licensed CC BY 3.0 DE.
+- 🔷 [Wahlgebiete fur die Wahl zum 20. Abgeordnetenhaus von Berlin 2026 - WFS](https://daten.berlin.de/datensaetze/wahlgebiete-fur-die-wahl-zum-20-abgeordnetenhaus-von-berlin-2026-wfs-bc61142d) - Companion WFS service for the same election areas, providing the vector features directly for GIS use and automated download.
 - 🧭 [Wahlgebietseinteilung](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/wahlgebietseinteilung/artikel.1600253.php) - Official page explaining the 78 constituencies, their distribution by district, links to district-level constituency maps, and the Open Data geometry download.
 
 ------------------------------
@@ -107,4 +109,4 @@ To add a new entry:
 
 This list is a compact reference for official Berlin 2026 election data and documentation, with a strong focus on reusable open data, geometry files, deadlines, and voter-facing reference material.
 
-Last updated: 2026-04-28
+Last updated: 2026-07-23
