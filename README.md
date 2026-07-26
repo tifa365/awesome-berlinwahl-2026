@@ -69,14 +69,28 @@ Official sources for candidate submissions, formal requirements, and key legal d
 
 ## Party Programs & Positions
 
-Final adopted programs of the major parties for the 2026 Berlin election; as of July 2026 all six parties listed here have published their final program.
+Programs of the parties running with a Landesliste for the 2026 Berlin election. Entries are grouped by source status: final adopted 2026 Wahlprogramm vs. other official program material. All links verified on 26 July 2026.
 
-- 🟢 [Grune Berlin: Unser Wahlprogramm fur 2026](https://gruene.berlin/wahlprogramm) - Final program page with the slogan `Politik andern, Berlin bleiben`; the site states the Landesdelegiertenkonferenz adopted the program on 14 and 15 February 2026.
+### Final 2026 Wahlprogramme
+
+- 🟢 [Grune Berlin: Unser Wahlprogramm fur 2026](https://gruene.berlin/wahlprogramm) - Final program page with the slogan `Politik andern, Berlin bleiben`; the site states the Landesdelegiertenkonferenz adopted the program on 14 and 15 February 2026. Direct downloads: [Wahlprogramm (PDF)](https://gruene.berlin/fileadmin/BE/lv_berlin/files/Wahlprogramm_2026_Online.pdf), [Leichte Sprache (PDF)](https://gruene.berlin/fileadmin/BE/lv_berlin/files/Wahlprogramm_2026_Leichte_Sprache_Online.pdf).
 - 🔴 [Die Linke Berlin: Wahlprogramm](https://dielinke.berlin/partei/wahlen/abgeordnetenhauswahlen-2026/wahlprogramm/) - Final program `Berlin bezahlbar machen`, adopted by the Landesparteitag on 25 April 2026 and published chapter by chapter on the official program page.
-- 🟣 [BSW Berlin: Wahlprogramm AGH-Wahl 2026](https://bsw.berlin/allgemein/entwurf-des-landeswahlprogramms-des-berliner-bsw/) - Official program page with the full PDF `Mit uns endlich vernunftig und gerecht`, adopted by the Landesparteitag on 25 April 2026; note the URL still carries the old `entwurf` slug even though the page presents the adopted program.
-- 🟡 [FDP Berlin: Wahlprogramm zur Abgeordnetenhauswahl 2026](https://www.fdp-berlin.de/wahlprogramm) - Final program page with the full PDF under the slogan `Fur die Freiheit`, adopted as a Landesparteitag resolution and also listed in the party's official Beschlussdatenbank.
+- 🟣 [BSW Berlin: Wahlprogramm AGH-Wahl 2026](https://bsw.berlin/allgemein/entwurf-des-landeswahlprogramms-des-berliner-bsw/) - Official program page with the full PDF `Mit uns endlich vernunftig und gerecht`, adopted by the Landesparteitag on 25 April 2026; note the URL still carries the old `entwurf` slug even though the page presents the adopted program. Direct download: [Wahlprogramm (PDF)](https://bsw.berlin/wp-content/uploads/Wahlprogramm-BSW-Berlin-AGH-Wahl-2026.pdf) - 66 pages.
+- 🟡 [FDP Berlin: Wahlprogramm zur Abgeordnetenhauswahl 2026](https://www.fdp-berlin.de/wahlprogramm) - Final program page with the full PDF under the slogan `Fur die Freiheit`, adopted as a Landesparteitag resolution and also listed in the party's official Beschlussdatenbank. Direct download: [Wahlprogramm (PDF)](https://www.fdp-berlin.de/sites/default/files/2026-07/Wahlprogramm_FDP%20Berlin_Abgeordnetenhauswahl%202026_FINAL.pdf).
 - ⚫ [CDU Berlin: Wofur wir stehen - Regierungsprogramm 2026-2031](https://cdu.berlin/wofuer-wir-stehen) - Official program page with the downloadable `Regierungsprogramm 2026-2031`, adopted by the 50. Landesparteitag on 9 June 2026.
 - 🔴 [SPD Berlin: Wieder Berlin - unser Wahlprogramm](https://spd.berlin/wahlprogramm/) - Final program `Wieder Berlin`, adopted unanimously by the Landesparteitag on 9 May 2026; the page offers a PDF download, an e-book version, and per-topic subpages.
+- 🔵 [AfD Berlin: Wahlprogramm Berlin 2026 (PDF)](https://lichtenberg.afd.berlin/wp-content/uploads/2026/07/AfD-WK-Berlin-Wahlprogramm-Webversion.pdf) - 99-page final program, adopted by the Landesparteitag in the Stahlpalast in Brandenburg an der Havel; no dedicated program page on the state association's main site as of July 2026, the PDF is hosted on the Lichtenberg district site.
+- 🟤 [DKP Berlin: Wahlprogramm](https://berlin.dkp.de/berliner-wahlen/) - Program page for the Berlin elections with the [Wahlprogramm (PDF)](https://berlin.dkp.de/wp-content/uploads/sites/83/2026/04/Wahlprogramm.pdf) - 8 pages.
+- 🃏 [Die PARTEI Berlin: Wahlprogramm zur AGH-Wahl 2026](https://die-partei-berlin.de/archiv/7778) - Satirical ten-point plan, published as a web page only, no PDF.
+- 🐾 [Tierschutzpartei: Wahlprogramm AGH 2026](https://www.tierschutzpartei.de/wahlprogramm-agh26/) - Program presentation page with the [Wahlprogramm (PDF)](https://www.tierschutzpartei.de/wp-content/uploads/2026/06/Wahlprogramm_AGH_26.pdf) - 96 pages across 26 topic areas.
+- 🟪 [Volt Berlin: Programm zur Abgeordnetenhauswahl 2026](https://voltdeutschland.org/berlin/programm/programme/programm-berlin-2026) - Program page with the [Wahlprogramm (PDF)](https://voltdeutschland.org/storage/assets-berlin/pdf/policy-wahlprogramm-2026/2026_ber_wahlprogramm.pdf) plus a short version on the page.
+
+### No final 2026 Wahlprogramm yet (as of 26 July 2026)
+
+- 🎤 [Die Urbane: Parteiprogramm](https://www.die-urbane.de/programm.html) - General party program, described by the party itself as an incomplete work in progress; no separate Berlin 2026 Wahlprogramm found.
+- 🍊 [ODP Berlin: Abgeordnetenhauswahl 2026](https://www.oedp-berlin.de/wahlen/abgeordnetenhauswahl-2026) - Official 2026 election page, which so far points to the existing [Landesprogramm Berlin (PDF)](https://www.oedp-berlin.de/fileadmin/user_upload/01-instanzen/02/030-Programm/Landesprogramm-Berlin.pdf) instead of a dedicated 2026 Wahlprogramm.
+- ⚙️ [Partei des Fortschritts: Wahl zum Abgeordnetenhaus Berlin 2026](https://partei-des-fortschritts.de/wahl-zum-abgeordnetenhaus-berlin/) - Official election page stating `Unser Wahlprogramm kommt bald`; until then only the [Grundsatzprogramm (PDF)](https://partei-des-fortschritts.de/wp-content/uploads/2026/01/260108_PdF_GrundsatzProgramm.pdf) is available. Worth re-checking regularly.
+- ☭ [SGP: Wahlaufruf `Berlinwahl 2026: Sozialismus statt Krieg`](https://www.wsws.org/de/articles/2026/07/10/sgpb-j10.html) - Wahlaufruf published on wsws.org, currently the most detailed Berlin program statement of the party; no separate Wahlprogramm or PDF found.
 
 ------------------------------
 
@@ -123,4 +137,4 @@ To add a new entry:
 
 This list is a compact reference for official Berlin 2026 election data and documentation, with a strong focus on reusable open data, geometry files, deadlines, and voter-facing reference material.
 
-Last updated: 2026-07-23
+Last updated: 2026-07-26
