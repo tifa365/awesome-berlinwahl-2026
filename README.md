@@ -14,6 +14,7 @@ Have something to add or change? Open a pull request or issue.
 - [Geometries & Boundaries](#geometries--boundaries)
 - [Pre-Election & Structural Data](#pre-election--structural-data)
 - [Rules, Deadlines & Candidacies](#rules-deadlines--candidacies)
+- [Approved Parties & Candidate Lists](#approved-parties--candidate-lists)
 - [Party Programs & Positions](#party-programs--positions)
 - [Voter Information](#voter-information)
 - [Election Operations & Context](#election-operations--context)
@@ -66,11 +67,25 @@ Official sources for candidate submissions, formal requirements, and key legal d
 - 📝 [Wahlvorschlage](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/wahlvorschlaege/artikel.1600254.php) - Main page for parties and candidates with deadlines for participation notices, candidate submissions, support signatures, downloadable forms, and procedural guidance.
 - ⏱️ [Terminplan fur die Berliner Wahlen 2026](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/allgemeine-informationen/terminplan.pdf) - Two-page official PDF with the binding timeline, including 20 May 2026 for participation notices and 14 July 2026 for submission of candidate documents.
 - 📘 [Aufruf zur Einreichung der Wahlbeteiligungsanzeige und Wahlvorschlage fur die Berliner Wahlen 2026](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/wahlvorschlaege/wahlaufruf-abgh_bvv-2026.pdf) - Detailed official call for submissions with legal references, procedural explanations, and candidacy requirements.
+
+------------------------------
+
+## Approved Parties & Candidate Lists
+
+Official record of which parties were admitted to the ballot, plus the candidate lists published so far. Note that as of 8 August 2026 the Landeswahlleiter has not yet published a central list of all individual candidates; the binding public announcement is due by 30 August 2026, so the party-level lists below are currently the only source for individual names.
+
+- ✅ [12 Landeslisten fur die Abgeordnetenhauswahl zugelassen](https://www.berlin.de/wahlen/pressemitteilungen/2026/pressemitteilung.1697177.php) - Landeswahlausschuss decision of 24 July 2026 admitting 12 Landeslisten: AfD, Grune, BSW, DKP, Die Urbane, FDP, ODP, Partei des Fortschritts, Die PARTEI, Tierschutzpartei, SGP, and Volt. In addition SPD, CDU, and Die Linke run with Bezirkslisten across all of Berlin, and HEIMAT and B* (bergpartei, die uberpartei) with Bezirkslisten in individual districts, so **17 parties in total** appear on the Zweitstimme ballot.
+- 📥 [Frist zur Einreichung der Wahlvorschlage ist abgelaufen](https://www.berlin.de/wahlen/pressemitteilungen/2026/pressemitteilung.1693624.php) - Press release of 15 July 2026 recording 21 parties that submitted Landes- or Bezirkslisten by the deadline of 14 July 2026, 18:00, with the signature thresholds (2,200 per Landesliste, 185 per Bezirksliste) and the decision dates of the Bezirkswahlausschusse (22 July) and the Landeswahlausschuss (24 July). For comparison, in 2021 all 34 submitted lists were approved.
+- ⚖️ [Landeswahlausschuss weist Beschwerden zuruck](https://www.berlin.de/wahlen/pressemitteilungen/2026/pressemitteilung.1698619.php) - Decision of 30 July 2026 on the only two complaints filed, both from Spandau and both directed against the approval of another party's Wahlvorschlag; rejected for lack of standing, since the right of appeal covers only the rejection of one's own list. This effectively closes the admission stage.
+- ⏱️ [Terminplan: Bekanntmachung der zugelassenen Wahlvorschlage](https://www.berlin.de/wahlen/wahlen/berliner-wahlen-2026/allgemeine-informationen/terminplan.pdf) - The binding timeline sets 30 August 2026 (21st day before the election, § 34 LWO) as the deadline for the Landeswahlleiter to publish the approved Wahlvorschlage; the ballot ordering (Festsetzung der Nummernfolge, § 30 LWO) was fixed on 24 and 30 July 2026.
+- 🍊 [ODP Berlin: Landesliste](https://www.oedp-berlin.de/wahlen/abgeordnetenhauswahl-2026/landesliste) - Full Landesliste of eight candidates, headed by Thomas Kuhn and Dr. Andrea Brieger; the party states the list was drawn up on 29 March 2025.
+- ⚙️ [Partei des Fortschritts: Kandidatenliste](https://partei-des-fortschritts.de/wahl-zum-abgeordnetenhaus-berlin/) - Current list of seven candidates on the party's official election page, headed by Aimee Kuhn.
+
 ------------------------------
 
 ## Party Programs & Positions
 
-Programs of the parties running with a Landesliste for the 2026 Berlin election. Entries are grouped by source status: final adopted 2026 Wahlprogramm vs. other official program material. All links verified on 26 July 2026.
+Programs of the parties contesting the 2026 Berlin election, covering all 17 parties admitted to the Zweitstimme ballot on 24 July 2026 - the 12 with a Landesliste, plus SPD, CDU, and Die Linke with Berlin-wide Bezirkslisten and HEIMAT and B* with Bezirkslisten in individual districts. Entries are grouped by source status: final adopted 2026 Wahlprogramm vs. other official program material. Program links verified on 26 July 2026, program status re-checked on 8 August 2026.
 
 ### Final 2026 Wahlprogramme
 
@@ -86,12 +101,14 @@ Programs of the parties running with a Landesliste for the 2026 Berlin election.
 - 🐾 [Tierschutzpartei: Wahlprogramm AGH 2026](https://www.tierschutzpartei.de/wahlprogramm-agh26/) - Program presentation page with the [Wahlprogramm (PDF)](https://www.tierschutzpartei.de/wp-content/uploads/2026/06/Wahlprogramm_AGH_26.pdf) - 96 pages across 26 topic areas.
 - 🟪 [Volt Berlin: Programm zur Abgeordnetenhauswahl 2026](https://voltdeutschland.org/berlin/programm/programme/programm-berlin-2026) - Program page with the [Wahlprogramm (PDF)](https://voltdeutschland.org/storage/assets-berlin/pdf/policy-wahlprogramm-2026/2026_ber_wahlprogramm.pdf) plus a short version on the page.
 
-### No final 2026 Wahlprogramm yet (as of 26 July 2026)
+### No final 2026 Wahlprogramm yet (as of 8 August 2026)
 
+- 🏔️ [B* (bergpartei, die uberpartei): programm](http://uepd.de/wordpress/programm/) - General party program, made up of the bergpartei-programm, the bergpartei-manifest, and the older UberPartei program; also available as [Parteiprogramm (PDF)](http://www.fstop.de/other/bergpartei/Parteiprogramm.pdf) - 26 pages, file created in 2017. No 2026 Wahlprogramm: in a post of 12 February 2026 the party calls its own program `abgegolten` and says it is rewriting it. Runs with a Bezirksliste in Friedrichshain-Kreuzberg only. Note that the `bergpartei.de` domain no longer resolves and `uepd.de` serves HTTPS with a self-signed certificate, so the HTTP links above are the working ones.
 - 🎤 [Die Urbane: Parteiprogramm](https://www.die-urbane.de/programm.html) - General party program, described by the party itself as an incomplete work in progress; no separate Berlin 2026 Wahlprogramm found.
-- 🍊 [ODP Berlin: Abgeordnetenhauswahl 2026](https://www.oedp-berlin.de/wahlen/abgeordnetenhauswahl-2026) - Official 2026 election page, which so far points to the existing [Landesprogramm Berlin (PDF)](https://www.oedp-berlin.de/fileadmin/user_upload/01-instanzen/02/030-Programm/Landesprogramm-Berlin.pdf) instead of a dedicated 2026 Wahlprogramm.
-- ⚙️ [Partei des Fortschritts: Wahl zum Abgeordnetenhaus Berlin 2026](https://partei-des-fortschritts.de/wahl-zum-abgeordnetenhaus-berlin/) - Official election page stating `Unser Wahlprogramm kommt bald`; until then only the [Grundsatzprogramm (PDF)](https://partei-des-fortschritts.de/wp-content/uploads/2026/01/260108_PdF_GrundsatzProgramm.pdf) is available. Worth re-checking regularly.
-- ☭ [SGP: Wahlaufruf `Berlinwahl 2026: Sozialismus statt Krieg`](https://www.wsws.org/de/articles/2026/07/10/sgpb-j10.html) - Wahlaufruf published on wsws.org, currently the most detailed Berlin program statement of the party; no separate Wahlprogramm or PDF found.
+- 📄 [HEIMAT: Parteiprogramm (PDF)](https://die-heimat.de/wp-content/uploads/2023/11/Parteiprogramm_Heimat.pdf) - Federal party program only; the [Berlin state page](https://die-heimat.de/home/berlin/) carries no 2026 Wahlprogramm, candidate list, or other election material for the Abgeordnetenhaus and BVV elections. Runs with Bezirkslisten in individual districts.
+- 🍊 [ODP Berlin: Abgeordnetenhauswahl 2026](https://www.oedp-berlin.de/wahlen/abgeordnetenhauswahl-2026) - Official 2026 election page, which as of 8 August 2026 still points to the existing [Landesprogramm Berlin (PDF)](https://www.oedp-berlin.de/fileadmin/user_upload/01-instanzen/02/030-Programm/Landesprogramm-Berlin.pdf) instead of a dedicated 2026 Wahlprogramm; the campaign runs under the slogan `Rettet den Respekt!`. The [Landesliste](https://www.oedp-berlin.de/wahlen/abgeordnetenhauswahl-2026/landesliste) is published separately.
+- ⚙️ [Partei des Fortschritts: Wahl zum Abgeordnetenhaus Berlin 2026](https://partei-des-fortschritts.de/wahl-zum-abgeordnetenhaus-berlin/) - Official election page still stating `Unser Wahlprogramm - Kommt bald. Versprochen!` as of 8 August 2026; until then only the [Grundsatzprogramm (PDF)](https://partei-des-fortschritts.de/wp-content/uploads/2026/01/260108_PdF_GrundsatzProgramm.pdf) is available. The same page now also carries the candidate list. Worth re-checking regularly.
+- ☭ [SGP: Wahlaufruf `Berlinwahl 2026: Sozialismus statt Krieg`](https://www.wsws.org/de/articles/2026/07/10/sgpb-j10.html) - Wahlaufruf of 10 July 2026 published on wsws.org, still the most detailed Berlin program statement of the party; no separate Wahlprogramm or PDF found. A [follow-up article of 5 August 2026](https://www.wsws.org/de/articles/2026/08/04/wahl-a04.html) reports the ballot admission and refers back to the same Wahlaufruf rather than announcing a program document.
 
 ------------------------------
 
